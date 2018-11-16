@@ -5,4 +5,7 @@
 .jumbotron{
     width: 90%;
     margin: auto;
+    background-color: darkblue!important;
+    margin-bottom: 5%;
+    color: white;
 }
